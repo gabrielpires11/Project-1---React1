@@ -8,6 +8,11 @@ import Perfil from "./pages/Perfil";
 import Game from "./pages/Game";
 import Badge from "./pages/Badge";
 import React from "react";
+import ReactDOM from 'react-dom/client';
+import Button from 'react-bootstrap/Button';
+import './index.css'
+
+
 
 function App(){
   return(
